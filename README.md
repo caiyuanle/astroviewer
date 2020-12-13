@@ -25,4 +25,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Vercel deployment of the app
 
-You can access a demo deployment of the app [here](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
+You can access a demo deployment of the app [astroviewer](https://astroviewer.vercel.app).
